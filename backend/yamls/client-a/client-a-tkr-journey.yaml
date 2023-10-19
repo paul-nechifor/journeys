@@ -1,0 +1,7 @@
+clone: mr-tkr
+title: "Client A: Total Knee Arthroplasty"
+invitable: true
+keyValues:
+    client: client-a
+    joint: knee
+

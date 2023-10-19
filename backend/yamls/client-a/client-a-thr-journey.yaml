@@ -1,0 +1,6 @@
+clone: mr-thr
+title: "Client A: Total Hip Arthroplasty"
+invitable: true
+keyValues:
+    client: client-a
+    joint: hip

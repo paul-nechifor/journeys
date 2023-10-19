@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "e2e"
+version = "0.1.0"
+description = ""
+authors = ["Paul Nechifor <paul@nechifor.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+playwright = "^1.39.0"
+pytest-playwright = "^0.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

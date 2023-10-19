@@ -1,0 +1,7 @@
+clone: client-b-thr
+title: "Client B: Partial Knee Arthroplasty"
+invitable: true
+keyValues:
+    client: client-b
+    joint: knee
+    partial: true

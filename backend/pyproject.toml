@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "journeys"
+version = "0.1.0"
+description = ""
+authors = ["Paul Nechifor <paul@nechifor.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.103.2"
+uvicorn = "^0.23.2"
+ruamel-yaml = "^0.17.35"
+structlog = "^23.2.0"
+pydash = "^7.0.6"
+pytest = "^7.4.2"
+httpx = "^0.25.0"
+pytest-mock = "^3.11.1"
+pytest-structlog = "^0.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
